@@ -1,0 +1,9 @@
+c:\users\farrukh\documents\visual studio 2013\Projects\TicTacToeAI\TicTacToeAI\bin\Debug\TicTacToeAI.exe.config
+c:\users\farrukh\documents\visual studio 2013\Projects\TicTacToeAI\TicTacToeAI\bin\Debug\TicTacToeAI.exe
+c:\users\farrukh\documents\visual studio 2013\Projects\TicTacToeAI\TicTacToeAI\bin\Debug\TicTacToeAI.pdb
+c:\users\farrukh\documents\visual studio 2013\Projects\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.csprojResolveAssemblyReference.cache
+c:\users\farrukh\documents\visual studio 2013\Projects\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.Form1.resources
+c:\users\farrukh\documents\visual studio 2013\Projects\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.Properties.Resources.resources
+c:\users\farrukh\documents\visual studio 2013\Projects\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.csproj.GenerateResource.Cache
+c:\users\farrukh\documents\visual studio 2013\Projects\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.exe
+c:\users\farrukh\documents\visual studio 2013\Projects\TicTacToeAI\TicTacToeAI\obj\Debug\TicTacToeAI.pdb
